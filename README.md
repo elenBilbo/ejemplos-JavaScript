@@ -1,2 +1,2 @@
-# ejemplos-VanillaJS
-Pequeña colección de ejemplos de VanillaJS para practicar con el DOM
+# ejemplos-Javascript
+https://elenbilbo.github.io/ejemplos-javascript/
