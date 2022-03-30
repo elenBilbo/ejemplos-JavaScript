@@ -1,2 +1,2 @@
 # ejemplos-Javascript
-https://elenbilbo.github.io/ejemplos-javascript/
+https://elenbilbo.github.io/ejemplos-Javascript/
